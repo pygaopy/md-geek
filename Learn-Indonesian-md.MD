@@ -13,7 +13,15 @@ Saya | makan | nasi
 ----|----|----
 I | am | a student
 我 | 是 | 一个学生
-Saya | adalah | pelajar
+Saya | **adalah** | pelajar
+
+**_adalah_** 常可省略
+
+### 疑问句
+在句子最前面和后面放上疑问词，并打上问号，就可以了。
+> Apa ini? 这是什么?
+> Itu apa? 那是什么？
+
 ## 修饰语和所有格
 ## 复数形式
 # 1 基本对话# 
