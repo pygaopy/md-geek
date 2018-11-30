@@ -13,7 +13,7 @@ Saya | makan | nasi
 ----|----|----
 I | am | a student
 我 | 是 | 一个学生
-Saya | adalar | pelajar
+Saya | adalah | pelajar
 ## 修饰语和所有格
 ## 复数形式
 # 1 基本对话# 
