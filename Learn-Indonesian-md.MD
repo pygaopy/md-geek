@@ -1,4 +1,14 @@
-#use **mardown** to learn **Indonesian"：Markdown 用来学习印尼语
+#use **mardown** to learn **Indonesian**：Markdown 用来学习**印尼语**
 
 # 0 基本语法#
+## 基本语序
+## 修饰语和所有格
+## 复数形式
 # 1 基本对话# 
+## 问候
+## 感谢
+## 道歉
+## 祝贺
+## 问题
+## 回答
+## 其他
