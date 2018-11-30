@@ -8,6 +8,12 @@
 I | eat | rice 
 我 | 吃 |饭
 Saya | makan | nasi
+
+主语 | 动词 |补语
+----|----|----
+I | am | a student
+我 | 是 | 一个学生
+Saya | adalar | pelajar
 ## 修饰语和所有格
 ## 复数形式
 # 1 基本对话# 
