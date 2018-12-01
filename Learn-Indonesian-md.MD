@@ -1,4 +1,4 @@
-#use **mardown** to learn **Indonesian**：Markdown 用来学习**印尼语**. 学习初始，最好熟悉字母和发音，有些地方发音和英语不同的。
+#use **mardown** to learn **Indonesian**(Bahasa Indonesia)：Markdown 用来学习**印尼语**. 学习初始，最好熟悉字母和发音，有些地方发音和英语不同的。
 
 # 0 基本语法#
 ## 基本语序
@@ -32,6 +32,17 @@ Saya | **adalah** | pelajar
 另外一个方法：用数量词修饰名词，如，dua orang，就是 “两个人”的意思，orang 不需要变词形。
 # 1 基本对话# 
 ## 问候
+### 见面的时候
+说法 | 时间 | 意思
+----|----|----
+Selamat pagi | 早上好 | 你好
+Selamat siang | 中午好|你好
+Selamat sore |下午好 | 你好
+Selamat malam |晚上好 |你好
+
+###问对方是否安好时
+
+
 ## 感谢
 ## 道歉
 ## 祝贺
