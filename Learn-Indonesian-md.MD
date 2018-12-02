@@ -40,7 +40,25 @@ Selamat siang | 中午好|你好
 Selamat sore |下午好 | 你好
 Selamat malam |晚上好 |你好
 
-###问对方是否安好时
+### 问对方是否安好时
+“Apa + kabar + 对方的称呼”
+比如：Apa kabar, Bapak?==老师，您好吗？
+Pak==老师，先生
+Ibu==Mrs.
+Bu== Ms.
+
+### 初次见面
+Saya senang sekali bertemu dengan anda.
+It's nice to meet you.
+
+### 分别的时候
+Selamat jalan == 您走好！
+Selamat tinggal == 好好生活 （请留步）
+Selamat tidur == 晚安
+sampai jumpa lagi == 再见
+dada == 再见 （亲密关系间）
+Permisi  == excuse me  失礼 
+tunggu sebentar == wait a moment  稍等一下。
 
 
 ## 感谢
